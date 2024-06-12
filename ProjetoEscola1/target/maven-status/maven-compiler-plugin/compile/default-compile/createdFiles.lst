@@ -1,0 +1,10 @@
+com\unincor\ProjetoEscola\model\domain\Aluno.class
+com\unincor\ProjetoEscola\controller\AlunoService.class
+com\unincor\ProjetoEscola\controller\TurmaService.class
+com\unincor\ProjetoEscola\model\domain\Turma.class
+com\unincor\ProjetoEscola\model\domain\repository\TurmaRepository.class
+com\unincor\ProjetoEscola\model\domain\Professor.class
+com\unincor\ProjetoEscola\ProjetoEscolaApplication.class
+com\unincor\ProjetoEscola\model\domain\repository\AlunoRepository.class
+com\unincor\ProjetoEscola\controller\ProfessorService.class
+com\unincor\ProjetoEscola\model\domain\repository\ProfessorRepository.class
